@@ -25,21 +25,21 @@ JSONX supports all of Reacts features including Functional (with Hooks), Class-b
 $ npm i jsonx
 ```
 
-### [Full Documentation](https://repetere.github.io/jsonx/)
+### [Full Documentation](https://franky-chanyau.github.io/jsonx/)
 
 
 <link id="viewx-style-style-0" rel="stylesheet" type="text/css" href="https://unpkg.com/highlight.js@9.18.1/styles/darkula.css">
 
 ---
 ### JSONX Manual
- - [Getting Started](https://repetere.github.io/jsonx/manual/getting-started/index.html)
- - [Using Advanced Props](https://repetere.github.io/jsonx/manual/using-advanced-props/index.html)
- - [External and Custom Components](https://repetere.github.io/jsonx/manual/using-external-and-custom-components/index.html)
- - [Creating React Components and Component Libraries](https://repetere.github.io/jsonx/manual/creating-react-components-and-component-libraries/index.html)
- - [JSONX & JXM Spec](https://repetere.github.io/jsonx/manual/spec/index.html)
- - [Samples](https://repetere.github.io/jsonx/manual/samples/index.html)
- - [Roadmap](https://repetere.github.io/jsonx/manual/roadmap/index.html)
- - [Full API Docs](https://repetere.github.io/jsonx/)
+ - [Getting Started](https://franky-chanyau.github.io/jsonx/manual/getting-started/index.html)
+ - [Using Advanced Props](https://franky-chanyau.github.io/jsonx/manual/using-advanced-props/index.html)
+ - [External and Custom Components](https://franky-chanyau.github.io/jsonx/manual/using-external-and-custom-components/index.html)
+ - [Creating React Components and Component Libraries](https://franky-chanyau.github.io/jsonx/manual/creating-react-components-and-component-libraries/index.html)
+ - [JSONX & JXM Spec](https://franky-chanyau.github.io/jsonx/manual/spec/index.html)
+ - [Samples](https://franky-chanyau.github.io/jsonx/manual/samples/index.html)
+ - [Roadmap](https://franky-chanyau.github.io/jsonx/manual/roadmap/index.html)
+ - [Full API Docs](https://franky-chanyau.github.io/jsonx/)
 ---
 
 ### Basic Usage
@@ -99,8 +99,8 @@ React.createElement(
 )
 ```
 
-You can pass React component libraries for additional components, or you own custom components (see [External and Custom Components](https://repetere.github.io/jsonx/manual/using-external-and-custom-components/index.html)
- and [Using Advanced Props](https://repetere.github.io/jsonx/manual/using-advanced-props/index.html) for more details).
+You can pass React component libraries for additional components, or you own custom components (see [External and Custom Components](https://franky-chanyau.github.io/jsonx/manual/using-external-and-custom-components/index.html)
+ and [Using Advanced Props](https://franky-chanyau.github.io/jsonx/manual/using-advanced-props/index.html) for more details).
 
 
 ### Development
@@ -119,7 +119,7 @@ $ npm run doc
 
 ### Notes
 
-Check out [https://repetere.github.io/jsonx/](https://repetere.github.io/jsonx/) for the full jsonx Documentation
+Check out [https://franky-chanyau.github.io/jsonx/](https://franky-chanyau.github.io/jsonx/) for the full jsonx Documentation
 
 ### Testing
 
